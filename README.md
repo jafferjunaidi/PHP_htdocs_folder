@@ -1,2 +1,1 @@
-# PHP_htdocs_folder
-
+# Hello world this all are PHP practice files.
